@@ -1,0 +1,1999 @@
+{
+  "11" : [ {
+    "name" : "Савёловская",
+    "date" : "31.12.1988",
+    "depth" : "−52",
+    "hasConnection" : false,
+    "number" : "11"
+  }, {
+    "name" : "Петровский парк",
+    "date" : "26.02.2018",
+    "depth" : "−25",
+    "hasConnection" : false,
+    "number" : "11"
+  }, {
+    "name" : "ЦСКА",
+    "date" : "26.02.2018",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "11"
+  }, {
+    "name" : "Хорошёвская",
+    "date" : "26.02.2018",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "11"
+  }, {
+    "name" : "Шелепиха",
+    "date" : "10.09.2016",
+    "depth" : "5",
+    "hasConnection" : false,
+    "number" : "11"
+  }, {
+    "name" : "Деловой центр",
+    "date" : "31.01.2014",
+    "depth" : 7,
+    "hasConnection" : false,
+    "number" : "11"
+  } ],
+  "11A" : [ {
+    "name" : "Каховская",
+    "date" : "11.08.1969",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "11A"
+  }, {
+    "name" : "Варшавская",
+    "date" : "11.08.1969",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "11A"
+  }, {
+    "name" : "Каширская",
+    "date" : "11.08.1969",
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "11A"
+  } ],
+  "12" : [ {
+    "name" : "Битцевский парк",
+    "date" : "27.02.2014",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "12"
+  }, {
+    "name" : "Лесопарковая",
+    "date" : "27.02.2014",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "12"
+  }, {
+    "name" : "Улица Старокачаловская",
+    "date" : "27.12.2003",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "12"
+  }, {
+    "name" : "Улица Скобелевская",
+    "date" : "27.12.2003",
+    "depth" : "9,6",
+    "hasConnection" : false,
+    "number" : "12"
+  }, {
+    "name" : "Бульвар адмирала Ушакова",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "12"
+  }, {
+    "name" : "Улица Горчакова",
+    "date" : "27.12.2003",
+    "depth" : "9,6",
+    "hasConnection" : false,
+    "number" : "12"
+  }, {
+    "name" : "Бунинская Аллея",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "12"
+  } ],
+  "14" : [ {
+    "name" : "Окружная",
+    "date" : "22.03.2018",
+    "depth" : "−65",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Владыкино",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Ботанический Сад",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Ростокино",
+    "date" : "10.09.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Белокаменная",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Бульвар Рокоссовского",
+    "date" : "01.08.1990",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Локомотив",
+    "date" : "10.09.2016",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Измайлово",
+    "date" : "10.09.2016",
+    "depth" : 5,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Соколиная Гора",
+    "date" : "11.10.2016",
+    "depth" : "-5",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Шоссе Энтузиастов",
+    "date" : "30.12.1979",
+    "depth" : "−53",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Андроновка",
+    "date" : "10.09.2016",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Нижегородская",
+    "date" : "10.09.2016",
+    "depth" : "−21,8",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Новохохловская",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Угрешская",
+    "date" : "10.09.2016",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Дубровка",
+    "date" : "11.10.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Автозаводская",
+    "date" : "10.09.2016",
+    "depth" : "−11",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "ЗИЛ",
+    "date" : "10.09.2016",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Верхние Котлы",
+    "date" : "10.09.2016",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Крымская",
+    "date" : null,
+    "depth" : "-3",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Площадь Гагарина",
+    "date" : "10.09.2016",
+    "depth" : -5,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Лужники",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Кутузовская",
+    "date" : "07.11.1958",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Деловой центр",
+    "date" : "31.01.2014",
+    "depth" : 7,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Шелепиха",
+    "date" : "10.09.2016",
+    "depth" : "5",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Хорошёво",
+    "date" : "10.09.2016",
+    "depth" : "5",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Зорге",
+    "date" : "04.11.2016",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Панфиловская",
+    "date" : "08.11.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Стрешнево",
+    "date" : "10.09.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Балтийская",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Коптево",
+    "date" : "01.11.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "14"
+  }, {
+    "name" : "Лихоборы",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "14"
+  } ],
+  "15" : [ {
+    "name" : "Электрозаводская",
+    "date" : "31.12.2020",
+    "depth" : "−20",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Лефортово",
+    "date" : "27.03.2020",
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Авиамоторная",
+    "date" : "27.03.2020",
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Нижегородская",
+    "date" : "10.09.2016",
+    "depth" : "−21,8",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Стахановская",
+    "date" : "27.03.2020",
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Окская",
+    "date" : "27.03.2020",
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Юго-Восточная",
+    "date" : "27.03.2020",
+    "depth" : "−20",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Косино",
+    "date" : null,
+    "depth" : "−27",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Улица Дмитриевского",
+    "date" : "03.06.2019",
+    "depth" : "−18",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Лухмановская",
+    "date" : "03.06.2019",
+    "depth" : "−15",
+    "hasConnection" : false,
+    "number" : "15"
+  }, {
+    "name" : "Некрасовка",
+    "date" : "03.06.2019",
+    "depth" : "−16",
+    "hasConnection" : false,
+    "number" : "15"
+  } ],
+  "D1" : [ {
+    "name" : "Одинцово",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Баковка",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Сколково",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Немчиновка",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Сетунь",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Рабочий Посёлок",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Кунцево",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Славянский бульвар",
+    "date" : "07.09.2008",
+    "depth" : "−8,5",
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Фили",
+    "date" : "07.11.1959",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Тестовская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Беговая",
+    "date" : "30.12.1972",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Белорусская",
+    "date" : "30.01.1952",
+    "depth" : "−33,1",
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Савёловская",
+    "date" : "31.12.1988",
+    "depth" : "−52",
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Тимирязевская",
+    "date" : "01.03.1991",
+    "depth" : 6,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Окружная",
+    "date" : "22.03.2018",
+    "depth" : "−65",
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Дегунино",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Бескудниково",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Лианозово",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Марк",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Новодачная",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Долгопрудная",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Водники",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Хлебниково",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Шереметьевская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  }, {
+    "name" : "Лобня",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D1"
+  } ],
+  "D2" : [ {
+    "name" : "Нахабино",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Аникеевка",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Опалиха",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Красногорская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Павшино",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Пенягино",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Волоколамская",
+    "date" : "26.12.2009",
+    "depth" : "−14",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Трикотажная",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Тушино",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Щукинская",
+    "date" : null,
+    "depth" : "−13",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Стрешнево",
+    "date" : "10.09.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Красный Балтиец",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Гражданская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Дмитровская",
+    "date" : "01.03.1991",
+    "depth" : "−59",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Рижская",
+    "date" : "01.05.1958",
+    "depth" : "−46",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Каланчёвская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Курская",
+    "date" : "13.03.1938",
+    "depth" : "−40",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Москва Товарная",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Калитники",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Новохохловская",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Текстильщики",
+    "date" : "31.12.1966",
+    "depth" : "−13",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Кубанская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Депо",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Перерва",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Курьяново",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Москворечье",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Царицыно",
+    "date" : "30.12.1984",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Покровская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Красный Строитель",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Битца",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Бутово",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Щербинка",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Остафьево",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Силикатная",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  }, {
+    "name" : "Подольск",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "D2"
+  } ],
+  "1" : [ {
+    "name" : "Бульвар Рокоссовского",
+    "date" : "01.08.1990",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Черкизовская",
+    "date" : "01.08.1990",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Преображенская площадь",
+    "date" : "31.12.1965",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Сокольники",
+    "date" : "15.05.1935",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Красносельская",
+    "date" : "15.05.1935",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Комсомольская",
+    "date" : "30.01.1952",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Красные ворота",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Чистые пруды",
+    "date" : "15.05.1935",
+    "depth" : "−35",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Лубянка",
+    "date" : "15.05.1935",
+    "depth" : "−32,5",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Охотный ряд",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Библиотека имени Ленина",
+    "date" : "15.05.1935",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Кропоткинская",
+    "date" : "15.05.1935",
+    "depth" : "−13",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Парк Культуры",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Фрунзенская",
+    "date" : "01.05.1957",
+    "depth" : "−42",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Спортивная",
+    "date" : "01.05.1957",
+    "depth" : "−42",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Воробьевы горы",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Университет",
+    "date" : "12.01.1959",
+    "depth" : "−26,5",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Проспект Вернадского",
+    "date" : "30.12.1963",
+    "depth" : "−16",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Юго-Западная",
+    "date" : "30.12.1963",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Тропарёво",
+    "date" : "08.12.2014",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Румянцево",
+    "date" : "18.01.2016",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Саларьево",
+    "date" : "15.02.2016",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Филатов Луг",
+    "date" : "20.06.2019",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Прокшино",
+    "date" : "20.06.2019",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Ольховая",
+    "date" : "20.06.2019",
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "1"
+  }, {
+    "name" : "Коммунарка",
+    "date" : null,
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "1"
+  } ],
+  "2" : [ {
+    "name" : "Ховрино",
+    "date" : "31.12.2017",
+    "depth" : "−14",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Беломорская",
+    "date" : "20.12.2018",
+    "depth" : "−18",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Речной вокзал",
+    "date" : "31.12.1964",
+    "depth" : "−6",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Водный стадион",
+    "date" : "31.12.1964",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Войковская",
+    "date" : "31.12.1964",
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Сокол",
+    "date" : "11.09.1938",
+    "depth" : "−9,6",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Аэропорт",
+    "date" : "11.09.1938",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Динамо",
+    "date" : "11.09.1938",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Белорусская",
+    "date" : "30.01.1952",
+    "depth" : "−33,1",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Маяковская",
+    "date" : "11.09.1938",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Тверская",
+    "date" : "20.07.1979",
+    "depth" : "−42",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Театральная",
+    "date" : "11.09.1938",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Новокузнецкая",
+    "date" : "20.11.1943",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Павелецкая",
+    "date" : "01.01.1950",
+    "depth" : "−40",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Автозаводская",
+    "date" : "10.09.2016",
+    "depth" : "−11",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Технопарк",
+    "date" : "28.12.2015",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Коломенская",
+    "date" : "11.08.1969",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Каширская",
+    "date" : "11.08.1969",
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Кантемировская",
+    "date" : "30.12.1984",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Царицыно",
+    "date" : "30.12.1984",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Орехово",
+    "date" : "30.12.1984",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Домодедовская",
+    "date" : "07.09.1985",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Красногвардейская",
+    "date" : "07.09.1985",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "2"
+  }, {
+    "name" : "Алма-Атинская",
+    "date" : "24.12.2012",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "2"
+  } ],
+  "3" : [ {
+    "name" : "Пятницкое шоссе",
+    "date" : "28.12.2012",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Митино",
+    "date" : "26.12.2009",
+    "depth" : "−14",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Волоколамская",
+    "date" : "26.12.2009",
+    "depth" : "−14",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Мякинино",
+    "date" : "26.12.2009",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Строгино",
+    "date" : "07.01.2008",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Крылатское",
+    "date" : "31.12.1989",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Молодежная",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Кунцевская",
+    "date" : "07.01.2008",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Славянский бульвар",
+    "date" : "07.09.2008",
+    "depth" : "−8,5",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Парк Победы",
+    "date" : "06.05.2003",
+    "depth" : "−73,6",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Киевская",
+    "date" : "05.04.1953",
+    "depth" : "−48",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Смоленская",
+    "date" : "15.05.1935",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Арбатская",
+    "date" : "05.04.1953",
+    "depth" : "−41",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Площадь Революции",
+    "date" : "13.03.1938",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Курская",
+    "date" : "13.03.1938",
+    "depth" : "−40",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Бауманская",
+    "date" : "18.01.1944",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Электрозаводская",
+    "date" : "31.12.2020",
+    "depth" : "−20",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Семеновская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Партизанская",
+    "date" : "18.01.1944",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Измайловская",
+    "date" : "21.10.1961",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Первомайская",
+    "date" : "21.10.1961",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  }, {
+    "name" : "Щелковская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "3"
+  } ],
+  "4" : [ {
+    "name" : "Александровский сад",
+    "date" : "15.05.1935",
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Арбатская",
+    "date" : "05.04.1953",
+    "depth" : "−41",
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Смоленская",
+    "date" : "15.05.1935",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Киевская",
+    "date" : "05.04.1953",
+    "depth" : "−48",
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Студенческая",
+    "date" : "07.11.1958",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Кутузовская",
+    "date" : "07.11.1958",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Фили",
+    "date" : "07.11.1959",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Багратионовская",
+    "date" : "13.10.1961",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Филевский парк",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Пионерская",
+    "date" : "13.10.1961",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Кунцевская",
+    "date" : "07.01.2008",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Выставочная",
+    "date" : "10.09.2005",
+    "depth" : "−25",
+    "hasConnection" : false,
+    "number" : "4"
+  }, {
+    "name" : "Международная",
+    "date" : "30.08.2006",
+    "depth" : "−25",
+    "hasConnection" : false,
+    "number" : "4"
+  } ],
+  "5" : [ {
+    "name" : "Киевская",
+    "date" : "05.04.1953",
+    "depth" : "−48",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Парк Культуры",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Октябрьская",
+    "date" : "13.10.1962",
+    "depth" : "−50",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Добрынинская",
+    "date" : "01.01.1950",
+    "depth" : "−35,5",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Павелецкая",
+    "date" : "01.01.1950",
+    "depth" : "−40",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Таганская",
+    "date" : "01.01.1950",
+    "depth" : "−36",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Курская",
+    "date" : "13.03.1938",
+    "depth" : "−40",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Комсомольская",
+    "date" : "30.01.1952",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Проспект Мира",
+    "date" : "01.05.1958",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Новослободская",
+    "date" : "30.01.1952",
+    "depth" : "−40",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Белорусская",
+    "date" : "30.01.1952",
+    "depth" : "−33,1",
+    "hasConnection" : false,
+    "number" : "5"
+  }, {
+    "name" : "Краснопресненская",
+    "date" : "14.03.1954",
+    "depth" : "−35,5",
+    "hasConnection" : false,
+    "number" : "5"
+  } ],
+  "6" : [ {
+    "name" : "Новоясеневская",
+    "date" : null,
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Ясенево",
+    "date" : "17.01.1990",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Теплый стан",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Коньково",
+    "date" : "06.11.1987",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Беляево",
+    "date" : "12.08.1974",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Калужская",
+    "date" : "12.08.1974",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Новые Черёмушки",
+    "date" : "13.10.1962",
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Профсоюзная",
+    "date" : "13.10.1962",
+    "depth" : "−7",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Академическая",
+    "date" : "13.10.1962",
+    "depth" : "−8,5",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Ленинский проспект",
+    "date" : "13.10.1962",
+    "depth" : "−16",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Шаболовская",
+    "date" : "06.11.1980",
+    "depth" : "−46,5",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Октябрьская",
+    "date" : "13.10.1962",
+    "depth" : "−50",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Третьяковская",
+    "date" : "25.01.1986",
+    "depth" : "−46",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Китай-город",
+    "date" : "03.01.1971",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Тургеневская",
+    "date" : "05.01.1972",
+    "depth" : "−49",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Сухаревская",
+    "date" : "05.01.1972",
+    "depth" : "−43",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Проспект Мира",
+    "date" : "01.05.1958",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Рижская",
+    "date" : "01.05.1958",
+    "depth" : "−46",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Алексеевская",
+    "date" : null,
+    "depth" : "−51",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "ВДНХ",
+    "date" : "01.05.1958",
+    "depth" : "−53,5",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Ботанический сад",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Свиблово",
+    "date" : "30.09.1978",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Бабушкинская",
+    "date" : "30.09.1978",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "6"
+  }, {
+    "name" : "Медведково",
+    "date" : "30.09.1978",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "6"
+  } ],
+  "7" : [ {
+    "name" : "Котельники",
+    "date" : "21.09.2015",
+    "depth" : "−15",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Жулебино",
+    "date" : "09.11.2013",
+    "depth" : "−15",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Лермонтовский проспект",
+    "date" : "09.11.2013",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Выхино",
+    "date" : "31.12.1966",
+    "depth" : "0",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Рязанский проспект",
+    "date" : "31.12.1966",
+    "depth" : "−6",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Кузьминки",
+    "date" : "31.12.1966",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Текстильщики",
+    "date" : "31.12.1966",
+    "depth" : "−13",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Волгоградский проспект",
+    "date" : "31.12.1966",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Пролетарская",
+    "date" : "31.12.1966",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Таганская",
+    "date" : "01.01.1950",
+    "depth" : "−36",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Китай-город",
+    "date" : "03.01.1971",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Кузнецкий мост",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Пушкинская",
+    "date" : "17.12.1975",
+    "depth" : "−51",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Баррикадная",
+    "date" : "30.12.1972",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Улица 1905 года",
+    "date" : "30.12.1972",
+    "depth" : "−11",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Беговая",
+    "date" : "30.12.1972",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Полежаевская",
+    "date" : "30.12.1972",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Октябрьское Поле",
+    "date" : "30.12.1972",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Щукинская",
+    "date" : null,
+    "depth" : "−13",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Спартак",
+    "date" : "27.08.2014",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Тушинская",
+    "date" : null,
+    "depth" : "−10,5",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Сходненская",
+    "date" : "30.12.1975",
+    "depth" : "−6",
+    "hasConnection" : false,
+    "number" : "7"
+  }, {
+    "name" : "Планерная",
+    "date" : "30.12.1975",
+    "depth" : "−6",
+    "hasConnection" : false,
+    "number" : "7"
+  } ],
+  "8" : [ {
+    "name" : "Новокосино",
+    "date" : "30.08.2012",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Новогиреево",
+    "date" : "30.12.1979",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Перово",
+    "date" : "30.12.1979",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Шоссе Энтузиастов",
+    "date" : "30.12.1979",
+    "depth" : "−53",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Авиамоторная",
+    "date" : "27.03.2020",
+    "depth" : "?",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Площадь Ильича",
+    "date" : "30.12.1979",
+    "depth" : "−46",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Марксистская",
+    "date" : "30.12.1979",
+    "depth" : "−60",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Третьяковская",
+    "date" : "25.01.1986",
+    "depth" : "−46",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Деловой центр",
+    "date" : "31.01.2014",
+    "depth" : 7,
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Парк Победы",
+    "date" : "06.05.2003",
+    "depth" : "−73,6",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Минская",
+    "date" : "16.03.2017",
+    "depth" : "−15",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Ломоносовский проспект",
+    "date" : "16.03.2017",
+    "depth" : "−15",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Раменки",
+    "date" : "16.03.2017",
+    "depth" : "−15",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Мичуринский проспект",
+    "date" : "30.08.2018",
+    "depth" : "−19",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Озёрная",
+    "date" : null,
+    "depth" : "−25",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Говорово",
+    "date" : "30.08.2018",
+    "depth" : "−14",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Солнцево",
+    "date" : "30.08.2018",
+    "depth" : "−13",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Боровское шоссе",
+    "date" : "30.08.2018",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Новопеределкино",
+    "date" : "30.08.2018",
+    "depth" : "−16",
+    "hasConnection" : false,
+    "number" : "8"
+  }, {
+    "name" : "Рассказовка",
+    "date" : "30.08.2018",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "8"
+  } ],
+  "9" : [ {
+    "name" : "Бульвар Дмитрия Донского",
+    "date" : "26.12.2002",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Аннино",
+    "date" : "12.12.2001",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Улица академика Янгеля",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Пражская",
+    "date" : "06.11.1985",
+    "depth" : "−9,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Южная",
+    "date" : "08.11.1983",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Чертановская",
+    "date" : "08.11.1983",
+    "depth" : "−10,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Севастопольская",
+    "date" : "08.11.1983",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Нахимовский Проспект",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Нагорная",
+    "date" : "08.11.1983",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Нагатинская",
+    "date" : "08.11.1983",
+    "depth" : "−13,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Тульская",
+    "date" : "08.11.1983",
+    "depth" : "−9,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Серпуховская",
+    "date" : null,
+    "depth" : "−43",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Полянка",
+    "date" : "23.01.1986",
+    "depth" : "−36,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Боровицкая",
+    "date" : "23.01.1986",
+    "depth" : "−46,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Чеховская",
+    "date" : "31.12.1987",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Цветной бульвар",
+    "date" : "31.12.1988",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Менделеевская",
+    "date" : "31.12.1988",
+    "depth" : "−48,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Савеловская",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Дмитровская",
+    "date" : "01.03.1991",
+    "depth" : "−59",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Тимирязевская",
+    "date" : "01.03.1991",
+    "depth" : 6,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Петровско-Разумовская",
+    "date" : "16.09.2016",
+    "depth" : "−61",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Владыкино",
+    "date" : "10.09.2016",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Отрадное",
+    "date" : "01.03.1991",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Бибирево",
+    "date" : "31.12.1992",
+    "depth" : "−9,5",
+    "hasConnection" : false,
+    "number" : "9"
+  }, {
+    "name" : "Алтуфьево",
+    "date" : "15.07.1994",
+    "depth" : "−9",
+    "hasConnection" : false,
+    "number" : "9"
+  } ],
+  "10" : [ {
+    "name" : "Зябликово",
+    "date" : "02.12.2011",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Шипиловская",
+    "date" : "02.12.2011",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Борисово",
+    "date" : "02.12.2011",
+    "depth" : "−10",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Марьино",
+    "date" : null,
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Братиславская",
+    "date" : "25.12.1996",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Люблино",
+    "date" : "25.12.1996",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Волжская",
+    "date" : "28.12.1995",
+    "depth" : "−8",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Печатники",
+    "date" : "28.12.1995",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Кожуховская",
+    "date" : "28.12.1995",
+    "depth" : "−12",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Дубровка",
+    "date" : "11.10.2016",
+    "depth" : 0,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Крестьянская застава",
+    "date" : "28.12.1995",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Римская",
+    "date" : "28.12.1995",
+    "depth" : "−54",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Чкаловская",
+    "date" : "28.12.1995",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Сретенский бульвар",
+    "date" : "29.12.2007",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Трубная",
+    "date" : "30.08.2007",
+    "depth" : "−60",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Достоевская",
+    "date" : "19.06.2010",
+    "depth" : "−60",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Марьина роща",
+    "date" : null,
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Бутырская",
+    "date" : "16.09.2016",
+    "depth" : "−60",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Фонвизинская",
+    "date" : "16.09.2016",
+    "depth" : "−65",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Петровско-Разумовская",
+    "date" : "16.09.2016",
+    "depth" : "−61",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Окружная",
+    "date" : "22.03.2018",
+    "depth" : "−65",
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Верхние Лихоборы",
+    "date" : "22.03.2018",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  }, {
+    "name" : "Селигерская",
+    "date" : "22.03.2018",
+    "depth" : null,
+    "hasConnection" : false,
+    "number" : "10"
+  } ]
+}
